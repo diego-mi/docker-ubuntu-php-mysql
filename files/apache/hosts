@@ -1,0 +1,3 @@
+# Vagrant ( IPv4 )
+127.0.0.1	vagrant.dev myadmin.dev
+127.0.0.1	wmst.dev
